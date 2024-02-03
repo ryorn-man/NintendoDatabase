@@ -14,6 +14,10 @@ The user interface of the website is simple and minimalistic, to make for an eas
  
 It should be possible to complete this project in three months.
 
+## Wireframes
+
+![alt text](/images/Wireframe.jpg)
+
 ## User Stories
 
 ## Use-Cases
