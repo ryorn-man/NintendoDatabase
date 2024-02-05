@@ -74,5 +74,5 @@ Basic flow: Bob opens up Google Chrome, goes to Nintendo Database, and clicks on
 
 ## Use Case Diagram
 
-![alt text](/images/User Case Diagram.jpg)
+![alt text](/images/UserCaseDiagram.jpg)
 
