@@ -20,4 +20,51 @@ It should be possible to complete this project in three months.
 
 ## User Stories
 
-## Use-Cases
+Story 1: A user opens Nintendo Database and reads about every Nintendo game on every system.
+Story 2: A user opens Nintendo Database and learns about the history of the company.
+Story 3: A user opens Nintendo Database and learns about every Nintendo console ever made.
+Story 4: A user opens Nintendo Database and learns about every Mario and Zelda game.
+Story 5: A user opens Nintendo Database and learns about magazines created by the company.
+
+## Use Cases
+
+### Use Case 1: Bob learning about Mario
+System: Windows computer
+Stakeholder: Bob
+Use case goal: Learn about the Mario games
+Primary actor: Bob
+Preconditions: Windows computer, Interest in learning about Mario
+Basic flow: Bob opens up Google Chrome, goes to Nintendo Database, and clicks on the "Franchises" and then "Mario" links, where he reads about all the Mario games.
+
+### Use Case 2: Trisha scrolling while bored
+System: iPhone
+Stakeholder: Trisha
+Use case goal: Alleviating boredom
+Primary actor: Trisha
+Preconditions: iPhone, Boredom, interest in Nintendo
+Basic flow: Trisha is bored at work. She opens Safari, and continues reading the entry on "F-Zero GX" that she started the previous night. She scrolls down through the page. Afterward, she presses "Consoles" in the navigation bar, selects "Nintendo Switch", and reads about the Nintendo Switch. She taps a link and reads about <i>Mario Kart 8 Deluxe</i>, the best-selling game on the Nintendo Switch.
+
+### Use Case 3: George deciding which games to buy
+System: Windows computer
+Stakeholder: Bob
+Use case goal: Decide which games to buy for his kids
+Primary actor: George
+Preconditions: Windows computer, Bought his kids a Nintendo Switch
+Basic flow: George bought his kids a Nintendo Switch for Christmas, and is trying to decide which games to buy. He opens up Nintendo database and reads about many games by finding them through the "Franchises" and "Games" pages, and the entry for "Nintendo Switch" under "Consoles". He decides to buy <i>The Legend of Zelda: Tears of the Kingdom</i>, <i>Pokemon Violet</i>, and <i>Resident Evil 4</i>.
+
+### Use Case 4: Albert reading about the history of Nintendo
+System: Windows computer
+Stakeholder: Albert
+Use case goal: Learn about the history of Nintendo
+Primary actor: Albert
+Preconditions: Windows computer
+Basic flow: Albert wants to learn about the history of Nintendo. He opens Nintendo database and clicks "Company History" in the navigation bar. From there, he reads about the company's history.
+
+### Use Case 5: April learning about Zelda
+System: Windows computer
+Stakeholder: April
+Use case goal: Learn about the Zelda games
+Primary actor: Bob
+Preconditions: Windows computer, Interest in learning about Zelda
+Basic flow: Bob opens up Google Chrome, goes to Nintendo Database, and clicks on the "Franchises" and then "Zelda" links, where he reads about all the Zelda games.
+
