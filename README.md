@@ -21,9 +21,13 @@ It should be possible to complete this project in three months.
 ## User Stories
 
 Story 1: A user opens Nintendo Database and reads about every Nintendo game on every system.
+
 Story 2: A user opens Nintendo Database and learns about the history of the company.
+
 Story 3: A user opens Nintendo Database and learns about every Nintendo console ever made.
+
 Story 4: A user opens Nintendo Database and learns about every Mario and Zelda game.
+
 Story 5: A user opens Nintendo Database and learns about magazines created by the company.
 
 ## Use Cases
@@ -67,4 +71,8 @@ Use case goal: Learn about the Zelda games
 Primary actor: Bob
 Preconditions: Windows computer, Interest in learning about Zelda
 Basic flow: Bob opens up Google Chrome, goes to Nintendo Database, and clicks on the "Franchises" and then "Zelda" links, where he reads about all the Zelda games.
+
+## Use Case Diagram
+
+![alt text](/images/User Case Diagram.jpg)
 
