@@ -19,21 +19,14 @@ It should be possible to complete this project in three months.
 ![alt text](/images/Wireframe.jpg)
 
 ## Table of Requirements
-                                                                     
-### R1
-The application allows users to view information on Nintendo-related entities: video games, consoles, franchises, magazines, toys, mobile devices, historical events in the company timeline, services offered by Nintendo, subsidiaries and business partners, and staff members working at Nintendo or associated companies. 
 
-### R2
-The application contains a database with two categories of tables: Nintendo-related entities, and website content.
-
-### R3
-The application's user interface is a PHP website which connects to the database.
-
-### R4
-The application contains a search function.
-
-### R5
-The application contains internals links between pages.
+| Requirement | Description                                                                  | 
+|:-----------:|:-----------------------------------------------------------------------------|
+|      1      |The application allows users to view information on Nintendo-related entities: video games, consoles, franchises, magazines, toys, mobile devices, historical events in the company timeline, services offered by Nintendo, subsidiaries and business partners, and staff members working at Nintendo or associated companies.|
+|      2      |The application contains a database with two categories of tables: Nintendo-related entities, and website content.|
+|      3      |The application's user interface is a PHP website which connects to the database.|
+|      4      |The application contains a search function.|
+|      5      |The application contains internals links between pages.|
 
 ## User Stories
 
