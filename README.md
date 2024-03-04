@@ -18,6 +18,12 @@ It should be possible to complete this project in three months.
 
 ![alt text](/images/Wireframe.jpg)
 
+## Entity Relationship Diagram
+![alt text](/images/ERD.jpg)
+
+## Class Diagram
+![alt text](/images/ClassDiagram.jpg)
+
 ## Table of Requirements
 
 | Requirement | Description                                                                  | 
