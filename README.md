@@ -5,7 +5,7 @@ The Nintendo Database collects data and displays information about entities rela
 
 The main purpose of the Nintendo Database is to inform users about the company Nintendo. It provides information on products, services, the timeline of the company, people working at Nintendo, and other relevant details, as identified in the paragraph below.
 
-There are two general categories of database entities: entities related to Nintendo, and website content for users to read. The first category consists of video games, consoles, franchises, magazines, toys, mobile devices, historical events in the company timeline, services offered by Nintendo, subsidiaries and business partners, and staff members working at Nintendo or associated companies. The second category includes articles and images.
+The database contains entities related to Nintendo. It consists of video games, consoles, franchises, magazines, toys, mobile devices, historical events in the company timeline, services offered by Nintendo, subsidiaries and business partners, and staff members working at Nintendo or associated companies. 
 
 
 The user interface of the website is simple and minimalistic, to make for an easy reading experience. There is a header with a logo, navigation menu, and (if time allows) a search bar. Articles reside in the page body, with a sidebar for links to header elements. There are references for information at the end of each article. There are description boxes for games, consoles, magazines, etc. which draw information from the database.
@@ -28,11 +28,11 @@ It should be possible to complete this project in three months.
 
 | Requirement | Description                                                                  | 
 |:-----------:|:-----------------------------------------------------------------------------|
-|      1      |The application allows users to view information on Nintendo-related entities: video games, consoles, franchises, magazines, toys, mobile devices, historical events in the company timeline, services offered by Nintendo, subsidiaries and business partners, and staff members working at Nintendo or associated companies.|
-|      2      |The application contains a database with two categories of tables: Nintendo-related entities, and website content.|
+|      1      |The application allows users to view information on Nintendo-related entities: video games, consoles, franchises, magazines, toys, historical events in the company timeline, services offered by Nintendo, subsidiaries and business partners, and staff members working at Nintendo or associated companies.|
+|      2      |The application contains a database of Nintendo-related entities.|
 |      3      |The application's user interface is a PHP website which connects to the database.|
 |      4      |The application contains a search function.|
-|      5      |The application contains internals links between pages.|
+|      5      |The application contains internal links between pages.|
 
 ## User Stories
 
