@@ -44,4 +44,4 @@ This is a VideoGame object, which stores data from the database in private varia
 ## Screenshots – MySQL Database
 This is an early version of the MySQL database providing data for users to view in the web application:
 
-![alt text](/prototype/screenshots/prototype-3.png)
+![alt text](/prototype/screenshots/prototype-14.png)
