@@ -31,7 +31,7 @@ The $stage variable loads from a POST request, and determines whether the page s
 
 The DatabaseObject connects to the MySQL database, creates objects from the data (in this case, VideoGame objects), and returns them with a public function:
 
-![alt text](/prototype/screenshots/prototype-10.png)
+![alt text](/prototype/screenshots/prototype-10a.png)
 
 ![alt text](/prototype/screenshots/prototype-11.png)
 
