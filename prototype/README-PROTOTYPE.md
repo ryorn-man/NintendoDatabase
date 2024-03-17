@@ -29,6 +29,18 @@ The $stage variable loads from a POST request, and determines whether the page s
 
 ![alt text](/prototype/screenshots/prototype-9.png)
 
+The DatabaseObject connects to the MySQL database, creates objects from the data (in this case, VideoGame objects), and returns them with a public function:
+
+![alt text](/prototype/screenshots/prototype-10.png)
+
+![alt text](/prototype/screenshots/prototype-11.png)
+
+This is a VideoGame object, which stores data from the database in private variables, and returns them with public functions:
+
+![alt text](/prototype/screenshots/prototype-12.png)
+
+![alt text](/prototype/screenshots/prototype-13.png)
+
 ## Screenshots – MySQL Database
 This is an early version of the MySQL database providing data for users to view in the web application:
 
