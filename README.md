@@ -36,11 +36,14 @@ It should be possible to complete this project in three months.
 ## Data Access Layer
 DatabaseObject is a class which loads data from the database, and creates objects with the data for later retrieval. This is the code for loading data from the VideoGames and Franchises tables in the database:
 ![alt text](/images/ns1.png)
+|
 ![alt text](/images/ns2.png)
+|
 ![alt text](/images/ns3.png)
 
 This is the code for VideoGame.php:
 ![alt text](/images/ns4.png)
+|
 ![alt text](/images/ns5.png)
 
 This is the code for Franchise.php:
@@ -48,20 +51,27 @@ This is the code for Franchise.php:
 
 This is the code in games.php which loads the list of Franchise objects, and the resulting output:
 ![alt text](/images/ns7.png)
+|
 ![alt text](/images/ns8.png)
+|
 ![alt text](/images/ns9.png)
+
 
 Output:
 ![alt text](/images/ns10.png)
+|
 ![alt text](/images/ns11.png)
 
 This is the code in franchises.php which loads the list of Franchise objects, and the resulting output:
 ![alt text](/images/ns12.png)
+|
 ![alt text](/images/ns13.png)
+|
 ![alt text](/images/ns14.png)
 
 Output:
 ![alt text](/images/ns15.png)
+|
 ![alt text](/images/ns16.png)
 
 ## User Stories
