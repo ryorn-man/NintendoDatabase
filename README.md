@@ -49,7 +49,6 @@ This is the code for VideoGame.php:
 
 
 This is the code for Franchise.php:
-
 ![alt text](/images/ns6.png)
 
 
